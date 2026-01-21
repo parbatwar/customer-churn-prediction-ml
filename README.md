@@ -21,7 +21,6 @@ This project uses supervised machine learning techniques to predict whether a cu
 - Matplotlib, Seaborn
 
 ## 📊 Models Implemented
-- Logistic Regression
 - Decision Tree
 - Random Forest
 - XGBoost
